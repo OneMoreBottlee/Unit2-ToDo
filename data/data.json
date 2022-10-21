@@ -1,0 +1,68 @@
+{
+    "todos": [
+      {
+        "id": 1666018268574,
+        "todo": "2. 기능 추가"
+      },
+      {
+        "id": 1666068147367,
+        "todo": "3. CSS 마무리"
+      },
+      {
+        "id": 1666068149932,
+        "todo": "4. 배포"
+      },
+      {
+        "id": 1666068879679,
+        "todo": "ㅁㅇㅎ"
+      },
+      {
+        "id": 1666069436174,
+        "todo": "Motion 기능 추가"
+      },
+      {
+        "id": 1666069493112,
+        "todo": "투두고치기"
+      },
+      {
+        "id": 1666072816295,
+        "todo": "굿"
+      },
+      {
+        "id": 1666076070529,
+        "todo": "d"
+      },
+      {
+        "id": 1666076081281,
+        "todo": "221018"
+      },
+      {
+        "id": 1666076110345,
+        "todo": "노션 정리 & 복습"
+      },
+      {
+        "id": 1666076139321,
+        "todo": "\"10/5 API GraphQL\""
+      },
+      {
+        "id": 1666076443660,
+        "todo": "9/21 BFS DFS"
+      },
+      {
+        "id": 1666096673014,
+        "todo": "수정"
+      },
+      {
+        "id": 1666096838082,
+        "todo": "투두 부분을 새 컴포넌트 묶어서"
+      },
+      {
+        "id": 1666097120754,
+        "todo": "1. https://github.com/z1zonemoi/SimpleTodo/blob/main/src/components/TodoList.js"
+      },
+      {
+        "id": 1666097133441,
+        "todo": "2. https://github.com/z1zonemoi/SimpleTodo/blob/main/src/components/TodoListItem.js"
+      }
+    ]
+  }
